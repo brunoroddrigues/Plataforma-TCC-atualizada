@@ -1,3 +1,5 @@
+***Bruno Aparecido Rodrigues***
+
 # Plataforma Artes Marciais
 Esse projéto é uma plataforma que estou desenvolvendo pro meu TCC no curso de sistemas para internet
 
@@ -25,7 +27,7 @@ Filtragem e Pesquisa Avançada: Funcionalidade para os usuários filtrarem os pr
 éssa pagina é a loja, onde se clicar na pag, abre uma descrição sobre o produto, se quizer comprar pode adicionar ao carrinho, e no carrinho consegue finalizar a compra.
 ![img1](https://github.com/brunoroddrigues/Plataforma-TCC-atualizada/assets/142831593/cc397cae-c141-4353-9e43-417b97915753)
 ![login](https://github.com/brunoroddrigues/Plataforma-TCC-atualizada/assets/142831593/1ce1860f-3269-4e24-b204-98e29d99bd6c)
-Aqui nesta página está falando sobre as artes marciais, incluindo histórias, ética e respeito, o que é a arte, etc.
+***Aqui nesta página está falando sobre as artes marciais, incluindo histórias, ética e respeito, o que é a arte, etc.***
 ![tela](https://github.com/brunoroddrigues/Plataforma-TCC-atualizada/assets/142831593/f7944263-c67b-4d03-a181-450572a7f226)
 
 
